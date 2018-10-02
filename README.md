@@ -60,3 +60,5 @@ For more information on how the script was originally created, and some tips on 
 MIT
 
 If you do find this script useful, a link back to this repository would be appreciated. Thanks!
+
+maleesn (github.com/maleesn)
